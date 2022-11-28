@@ -11,6 +11,17 @@
 		5681EEF0293491CD00AF8DFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EEEF293491CD00AF8DFB /* ViewController.swift */; };
 		5681EEF2293491CF00AF8DFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5681EEF1293491CF00AF8DFB /* Assets.xcassets */; };
 		5681EEF5293491CF00AF8DFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5681EEF3293491CF00AF8DFB /* Main.storyboard */; };
+		5681EF052934920000AF8DFB /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EEFC293491FD00AF8DFB /* ContentViewController.swift */; };
+		5681EF062934920000AF8DFB /* LoremSwiftum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EEFD293491FD00AF8DFB /* LoremSwiftum.swift */; };
+		5681EF072934920000AF8DFB /* TestContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EEFE293491FE00AF8DFB /* TestContent.swift */; };
+		5681EF082934920000AF8DFB /* UISourceOfTruth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EEFF293491FE00AF8DFB /* UISourceOfTruth.swift */; };
+		5681EF092934920000AF8DFB /* MainSplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EF00293491FE00AF8DFB /* MainSplitViewController.swift */; };
+		5681EF0A2934920000AF8DFB /* SideBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EF01293491FE00AF8DFB /* SideBarViewController.swift */; };
+		5681EF0B2934920000AF8DFB /* SideBarTableCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5681EF02293491FF00AF8DFB /* SideBarTableCellView.xib */; };
+		5681EF0C2934920000AF8DFB /* SideBarTableCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EF03293491FF00AF8DFB /* SideBarTableCellView.swift */; };
+		5681EF0D2934920000AF8DFB /* ContentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5681EF04293491FF00AF8DFB /* ContentController.swift */; };
+		56C10EAE2934929700A4252B /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 56C10EAD2934929700A4252B /* Images */; };
+		56C10EB02934929E00A4252B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 56C10EAF2934929E00A4252B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +31,17 @@
 		5681EEF1293491CF00AF8DFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5681EEF4293491CF00AF8DFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5681EEF6293491CF00AF8DFB /* SimpleUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SimpleUI.entitlements; sourceTree = "<group>"; };
+		5681EEFC293491FD00AF8DFB /* ContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
+		5681EEFD293491FD00AF8DFB /* LoremSwiftum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoremSwiftum.swift; sourceTree = "<group>"; };
+		5681EEFE293491FE00AF8DFB /* TestContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestContent.swift; sourceTree = "<group>"; };
+		5681EEFF293491FE00AF8DFB /* UISourceOfTruth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISourceOfTruth.swift; sourceTree = "<group>"; };
+		5681EF00293491FE00AF8DFB /* MainSplitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainSplitViewController.swift; sourceTree = "<group>"; };
+		5681EF01293491FE00AF8DFB /* SideBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarViewController.swift; sourceTree = "<group>"; };
+		5681EF02293491FF00AF8DFB /* SideBarTableCellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SideBarTableCellView.xib; sourceTree = "<group>"; };
+		5681EF03293491FF00AF8DFB /* SideBarTableCellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarTableCellView.swift; sourceTree = "<group>"; };
+		5681EF04293491FF00AF8DFB /* ContentController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentController.swift; sourceTree = "<group>"; };
+		56C10EAD2934929700A4252B /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
+		56C10EAF2934929E00A4252B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +58,8 @@
 		5681EEE1293491CD00AF8DFB = {
 			isa = PBXGroup;
 			children = (
+				56C10EAF2934929E00A4252B /* README.md */,
+				56C10EAD2934929700A4252B /* Images */,
 				5681EEEC293491CD00AF8DFB /* SimpleUI */,
 				5681EEEB293491CD00AF8DFB /* Products */,
 			);
@@ -52,6 +76,15 @@
 		5681EEEC293491CD00AF8DFB /* SimpleUI */ = {
 			isa = PBXGroup;
 			children = (
+				5681EF04293491FF00AF8DFB /* ContentController.swift */,
+				5681EEFC293491FD00AF8DFB /* ContentViewController.swift */,
+				5681EEFD293491FD00AF8DFB /* LoremSwiftum.swift */,
+				5681EF00293491FE00AF8DFB /* MainSplitViewController.swift */,
+				5681EF03293491FF00AF8DFB /* SideBarTableCellView.swift */,
+				5681EF02293491FF00AF8DFB /* SideBarTableCellView.xib */,
+				5681EF01293491FE00AF8DFB /* SideBarViewController.swift */,
+				5681EEFE293491FE00AF8DFB /* TestContent.swift */,
+				5681EEFF293491FE00AF8DFB /* UISourceOfTruth.swift */,
 				5681EEED293491CD00AF8DFB /* AppDelegate.swift */,
 				5681EEEF293491CD00AF8DFB /* ViewController.swift */,
 				5681EEF1293491CF00AF8DFB /* Assets.xcassets */,
@@ -119,6 +152,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56C10EAE2934929700A4252B /* Images in Resources */,
+				5681EF0B2934920000AF8DFB /* SideBarTableCellView.xib in Resources */,
+				56C10EB02934929E00A4252B /* README.md in Resources */,
 				5681EEF2293491CF00AF8DFB /* Assets.xcassets in Resources */,
 				5681EEF5293491CF00AF8DFB /* Main.storyboard in Resources */,
 			);
@@ -131,8 +167,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5681EF0C2934920000AF8DFB /* SideBarTableCellView.swift in Sources */,
 				5681EEF0293491CD00AF8DFB /* ViewController.swift in Sources */,
+				5681EF082934920000AF8DFB /* UISourceOfTruth.swift in Sources */,
+				5681EF0D2934920000AF8DFB /* ContentController.swift in Sources */,
+				5681EF052934920000AF8DFB /* ContentViewController.swift in Sources */,
+				5681EF092934920000AF8DFB /* MainSplitViewController.swift in Sources */,
 				5681EEEE293491CD00AF8DFB /* AppDelegate.swift in Sources */,
+				5681EF072934920000AF8DFB /* TestContent.swift in Sources */,
+				5681EF062934920000AF8DFB /* LoremSwiftum.swift in Sources */,
+				5681EF0A2934920000AF8DFB /* SideBarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

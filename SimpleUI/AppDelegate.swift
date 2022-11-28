@@ -1,17 +1,14 @@
 //
 //  AppDelegate.swift
-//  SimpleUI
+//  AnimatedTableText
 //
-//  Created by Diego Massanti on 28/11/2022.
+//  Created by Diego Massanti on 27/11/2022.
 //
 
 import Cocoa
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {
-
-    
-
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application
